@@ -1,18 +1,18 @@
 body{
     background-color: rgb(70, 142, 236);
     font: normal 15pt Arial;
+    text-align: center;
 }
 
 header{
     color: white;
-    text-align: center;
 }
 
 img{
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    align-items: center;
+    object-fit: cover;
 }
 
 section{
@@ -26,6 +26,5 @@ section{
 
 footer{
     color: white;
-    text-align: center;
     font-style: italic;
 }
